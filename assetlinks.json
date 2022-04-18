@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.odukle.viddit",
+    "sha256_cert_fingerprints":
+    ["85:F1:27:48:02:33:7C:D0:EF:EC:5B:70:ED:1F:F0:AD:6F:DB:FD:44:0B:7B:9C:0C:0A:14:DD:39:80:12:C3:4D"]
+  }
+}]
